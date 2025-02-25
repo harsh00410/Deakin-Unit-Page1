@@ -1,25 +1,19 @@
-/* Header Styles */
-.header {
-  background-color: darkcyan;
-  padding: 20px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+
+
+h1 {
+  font-size: 40px;
+  font-family: Arial
+}
+h2 {
+  font-size: 25px;
+  font-family: Arial
+}
+h3 {
+  font-family: Arial
+}
+p {
+  font-size: 14px;
+  font-family: Arial
 }
 
-/* Title inside header */
-.header h1 {
-  color: white;
-  font-size: 28px;
-  margin: 0;
-  font-family: Arial, sans-serif;
-}
 
-/* Deakin logo styles */
-.logo {
-  width: 100px; 
-  height: auto;
-  object-fit: contain;
-  background: none; 
-  margin-left: auto; 
-}
